@@ -1,0 +1,5 @@
+pip
+flask
+flask-cors
+jsonify
+openai
